@@ -13,3 +13,8 @@ Stevie's favorite ice cream flavors:
 - Meal worm
 - Shrimp flakes
 - Sunflower seed
+
+Benny favorite ice cream flavors:
+- Burbon 
+- Rum and Raisin 
+- Strawberry
